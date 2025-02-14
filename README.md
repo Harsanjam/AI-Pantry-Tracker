@@ -2,6 +2,8 @@
 
 Welcome to the AI Pantry Tracker, an innovative web application that helps you make the most out of the ingredients you have on hand. With this app, you can upload images or take pictures of food items using your phone or computer camera, and it will generate delicious recipes based on the available items.
 
+https://pantry-tracker-seven-zeta.vercel.app/login
+
 ## Features
 
 - **Image Upload**: Upload images of food items from your device or take pictures directly using your camera.
